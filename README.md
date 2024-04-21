@@ -1,4 +1,4 @@
-# This is brief Git && GitHub tutorial
+# This is a brief Git & GitHub tutorial
 ## Getting started with Git (locally) <br>
 * Choose a directory to work with <br>
 ```bash
