@@ -1,6 +1,6 @@
 # This is brief Git && GitHub tutorial
 ## Getting started with Git (locally) <br>
-*Choose a directory to work with <br>
+* Choose a directory to work with <br>
 ```bash
 $ cd /some-directory/
 ```
