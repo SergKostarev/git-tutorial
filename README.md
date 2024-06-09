@@ -34,6 +34,17 @@ $ git add .
 ```bash
 $ git commit -m 'Some message' 
 ```
+* Edit last commit files (first stage them using *git add*)<br>
+```bash
+$ git commit --amend --no-edit
+```
+*OR*<br>
+* Edit last commit message <br>
+```bash
+$ git commit --amend -m 'New commit message'
+```
+
+
 
 ## Git-files statuses <br>
 * Untracked
