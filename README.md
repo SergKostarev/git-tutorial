@@ -44,14 +44,12 @@ $ git commit --amend --no-edit
 $ git commit --amend -m 'New commit message'
 ```
 
-
-
 ## Git-files statuses <br>
-* Untracked
+* Untracked <br>
 Is set to files that have not been commited and added to commit. Usually this status refers to new files in project.
-* Tracked
+* Tracked <br>
 An opposite status of **untracked**. It is set to files that have already been commited or added to commit.
-* Staged
+* Staged <br>
 Points out files that have been added to commit. Staged files are also **tracked**.
-* Modified
+* Modified <br>
 Describes files that were modified. File modification can happen after adding to commit (stagging). Thus, modified files can be **staged**. In this case, the previous file version is to be commited. To fix this and update file version, add file to commit again. Modified files are also **tracked**.
